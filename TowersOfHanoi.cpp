@@ -48,6 +48,9 @@ int main()
     cin>>N;
     Move(A,B,C,N);
     
-    system("pause");
+    
     return 0;
 }
+
+
+
